@@ -1,0 +1,35 @@
+h4 {
+    color:rgb(38, 0, 128);
+    Font-size : 20px;
+    font-style: underline;
+    text-align: left;
+    text-decoration: underline;   
+}
+h1 {
+ color: black;
+ background-color:seagreen;
+ width: 50%;
+}
+h2 {
+    color: blueviolet;
+}
+p {
+ font-size: 20px;
+ text-align:initial;
+ width: 50%;
+ height: 100%;
+}
+
+img {
+    height:100%;
+    width:60%;
+}
+h4 {
+    color:blueviolet;
+    width: 50%;
+   }
+   h3 {
+    color: rgb(230, 23, 23);
+    width: 50%;
+    font-style: italic;
+   }
